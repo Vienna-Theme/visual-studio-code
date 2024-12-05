@@ -1,0 +1,25 @@
+{
+  "name": "vienna-theme",
+  "displayName": "Vienna Theme",
+  "description": "An All-Black Theme For Any Platform.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "author": "Kaio Viana",
+  "publisher": "KaioViana",
+  "repository": "https://github.com/Vienna-Theme/visual-studio-code",
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vienna Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vienna Theme-color-theme.json"
+      }
+    ]
+  }
+}
