@@ -2,7 +2,7 @@
   "name": "vienna-theme",
   "displayName": "Vienna Theme",
   "description": "An All-Black Theme For Any Platform.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
