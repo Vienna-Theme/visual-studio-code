@@ -2,7 +2,7 @@
 
 An All-Black Theme For Any Platform.
 
-<img align="center" style="margin-bottom:5px" width=100% src="https://i.imgur.com/yupLHDc.png" />
+<img align="center" style="margin-bottom:5px" width=100% src="https://i.imgur.com/ikBOgAn.png" />
 
 ## ✨ Features
 
